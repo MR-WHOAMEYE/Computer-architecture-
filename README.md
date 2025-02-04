@@ -7,7 +7,7 @@
 ### 1️⃣ first Logic Gate  
 [Logic Gate 1] (https://circuitverse.org/simulator/embed/1-269fd04f-3c4c-45c6-ba71-d7e6ebe633ac?theme=night-sky)
 ### 2️⃣ Second Logic Gate  
-![Logic Gate 2] https://circuitverse.org/simulator/embed/2-554b53c2-fb7a-4f43-a498-c20184201498?theme=night-sky&display_title=false&clock_time=true&fullscreen=true&zoom_in_out=true
+![Logic Gate 2] (https://circuitverse.org/simulator/embed/2-554b53c2-fb7a-4f43-a498-c20184201498?theme=night-sky)
 
 ### 3️⃣ Third Logic Gate  
 ![Logic Gate 3] (https://raw.githubusercontent.com/MR-WHOAMEYE/Computer-architecture-/main/3.png
