@@ -1,2 +1,8 @@
 # Computer-architecture-
-192424081 THARANKESWARAN 
+🎓 **Register Number:** 192424081
+🤗 **NAME:** THARANKESWARAN 
+
+## 🔢 Logic Gate Images  
+
+### 1️⃣ first Logic Gate  
+
