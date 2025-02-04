@@ -2,11 +2,10 @@
 🎓 **Register Number:** 192424081
 🤗 **NAME:** THARANKESWARAN 
 
-## 🔢 Logic Gate Images  
+## 🔢 Logic Gate simulation  
 
 ### 1️⃣ first Logic Gate  
-![Logic Gate 1] (https://raw.githubusercontent.com/MR-WHOAMEYE/Computer-architecture-/main/1.png
-)
+[Logic Gate 1] (https://circuitverse.org/simulator/embed/1-269fd04f-3c4c-45c6-ba71-d7e6ebe633ac?theme=night-sky)
 ### 2️⃣ Second Logic Gate  
 ![Logic Gate 2] (https://raw.githubusercontent.com/MR-WHOAMEYE/Computer-architecture-/main/2.png
 )
