@@ -1,4 +1,4 @@
-# Computer-architecture-
+# Computer-architecture
 🎓 **Register Number:** 192424081
 🤗 **NAME:** THARANKESWARAN 
 
